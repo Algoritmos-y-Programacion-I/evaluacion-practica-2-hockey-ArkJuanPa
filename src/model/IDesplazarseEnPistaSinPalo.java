@@ -1,5 +1,5 @@
 package model;
 
 public interface IDesplazarseEnPistaSinPalo {
-    void desplazarse();
+    String desplazarse();
 }
